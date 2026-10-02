@@ -15,3 +15,5 @@ Pensamiento y Razonamiento (8/10): Resolución eficaz de interacciones y dosific
 Percepción y Atención (8/10): Alta precisión en el seguimiento de datos de recetas, pero sin captar el entorno físico.
 
 Motivación, Cognición y Emoción (2/10): Una simulación de empatía útil para el trato, pero sin conciencia real.
+## Semana 7
+<img width="1542" height="803" alt="Captura de pantalla 2026-10-02 112029" src="https://github.com/user-attachments/assets/fc00277a-ec6f-4315-a3cd-8d8cd99d9612" />
