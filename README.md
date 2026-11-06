@@ -17,3 +17,5 @@ Percepción y Atención (8/10): Alta precisión en el seguimiento de datos de re
 Motivación, Cognición y Emoción (2/10): Una simulación de empatía útil para el trato, pero sin conciencia real.
 ## Semana 7
 <img width="1542" height="803" alt="Captura de pantalla 2026-10-02 112029" src="https://github.com/user-attachments/assets/fc00277a-ec6f-4315-a3cd-8d8cd99d9612" />
+## semana 13
+<img width="538" height="1856" alt="Diagrama de flujo" src="https://github.com/user-attachments/assets/f5e8628d-0f3a-4dd9-8502-e3e59b107d3b" />
