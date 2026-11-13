@@ -32,7 +32,44 @@ Motivación, Cognición y Emoción (2/10): Una simulación de empatía útil par
 <img width="1038" height="253" alt="Captura de pantalla 2026-11-13 110158" src="https://github.com/user-attachments/assets/41488718-08c6-45ce-a323-e8111f5207f0" />
 <img width="1937" height="812" alt="Diagrama horizontal del análisis deportivo" src="https://github.com/user-attachments/assets/2548224a-0664-443c-9bbc-ad5dc69e8c2c" />
 
+## semana 10 
 
+<img width="1672" height="941" alt="Flujo del Protocolo de IA Fútbol" src="https://github.com/user-attachments/assets/67cebeb9-ac05-44b3-9704-227a3515d695" />
+
+## semana 11
+
+**1. Pragmática y manejo del sarcasmo**
+
+**Objetivo:** Lograr que IA FÚTBOL comprenda la intención de los usuarios cuando utilizan sarcasmo, ironía o expresan inconformidad con los análisis y predicciones deportivas.
+
+**2. Manejo de situaciones ambiguas**
+
+Un usuario puede no estar satisfecho con una predicción y expresar su molestia mediante sarcasmo.
+
+**Ejemplo:**
+
+Usuario: «¡Qué maravilla! Otra vez falló la predicción».
+
+Aunque parece un comentario positivo, realmente está expresando inconformidad porque el resultado fue diferente al esperado.
+
+**3. ¿Cómo debe reaccionar IA FÚTBOL?**
+
+Debe analizar el contexto, identificar el sarcasmo y responder con respeto, sin interpretar literalmente el mensaje.
+
+**Respuesta del agente:**
+
+«Entiendo tu inconformidad. Las predicciones deportivas pueden fallar debido a situaciones inesperadas durante los partidos. Podemos revisar nuevamente las estadísticas».
+
+**4. Interpretación de mensajes**
+
+- Sarcasmo: identificar la ironía.
+- Molestia: responder con empatía.
+- Pregunta confusa: solicitar aclaración.
+- Satisfacción: agradecer el comentario.
+
+**5. Resultado esperado**
+
+Lograr que IA FÚTBOL comprenda mejor la intención de los usuarios y responda de manera natural, respetuosa e inteligente, teniendo en cuenta el contexto de cada conversación.
 
 ## semana 13
 
