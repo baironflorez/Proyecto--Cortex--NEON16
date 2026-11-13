@@ -22,6 +22,11 @@ Percepción y Atención (8/10): Alta precisión en el seguimiento de datos de re
 Motivación, Cognición y Emoción (2/10): Una simulación de empatía útil para el trato, pero sin conciencia real.
 ## Semana 7
 <img width="1542" height="803" alt="Captura de pantalla 2026-10-02 112029" src="https://github.com/user-attachments/assets/fc00277a-ec6f-4315-a3cd-8d8cd99d9612" />
+
+## semana 8
+
+<img width="1415" height="211" alt="Captura de pantalla 2026-11-13 105933" src="https://github.com/user-attachments/assets/5772791a-658d-487d-8aef-39a52cc2c52a" />
+
 ## semana 13
 
 <img width="1774" height="887" alt="Algoritmo Maestro de Fútbol" src="https://github.com/user-attachments/assets/20d2554c-f427-4dfe-a0c2-c520fe083f52" />
