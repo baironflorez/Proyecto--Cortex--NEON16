@@ -82,3 +82,43 @@ Principio fundamental: El agente no debe buscar estadísticas para demostrar que
 
 ## semana 15<img width="1710" height="259" alt="Captura de pantalla 2026-11-06 113700" src="https://github.com/user-attachments/assets/4f683f42-2284-4717-9fbb-f3015b71b2d5" />
 
+## semana 26
+6. Motivación y Control
+6.1. Función Objetivo (Motivación del Agente)
+
+La motivación principal de nuestro agente de inteligencia artificial es analizar apuestas deportivas para proporcionar información estadística, objetiva y confiable que ayude a los usuarios a tomar mejores decisiones.
+
+El agente busca evaluar diferentes eventos deportivos mediante el análisis de estadísticas de equipos, rendimiento de jugadores, resultados anteriores y probabilidades, con el propósito de identificar oportunidades de apuestas con valor estadístico.
+
+La función objetivo del agente consiste en maximizar la precisión de sus análisis y la calidad de sus recomendaciones, reduciendo los errores y evitando decisiones basadas únicamente en la intuición.
+
+6.2. Meta Principal
+
+La meta principal es desarrollar un agente inteligente capaz de analizar eventos deportivos y ofrecer pronósticos fundamentados en datos y estadísticas, ayudando al usuario a comprender los riesgos y las probabilidades de cada apuesta.
+
+6.3. Métricas de Éxito
+
+Para evaluar el rendimiento del agente se tendrán en cuenta las siguientes métricas:
+
+Precisión de los pronósticos: medir qué porcentaje de predicciones coincide con los resultados reales.
+Calidad del análisis: verificar que las recomendaciones estén respaldadas por estadísticas y datos actualizados.
+Identificación de valor: evaluar si el agente identifica cuotas cuya probabilidad estimada sea superior a la probabilidad implícita de la cuota.
+Reducción de errores: minimizar pronósticos incorrectos y conclusiones sin suficiente respaldo estadístico.
+Satisfacción del usuario: ofrecer información clara, comprensible y útil.
+Transparencia: explicar los factores que influyen en cada pronóstico y señalar los riesgos existentes.
+6.4. Motivaciones en Conflicto
+
+En el funcionamiento del agente pueden presentarse algunos conflictos entre sus objetivos:
+
+Buscar respuestas rápidas puede reducir la profundidad del análisis.
+Ofrecer pronósticos frecuentes puede disminuir la calidad de las recomendaciones.
+Buscar una alta precisión no garantiza obtener ganancias económicas.
+Una cuota atractiva no significa necesariamente que una apuesta tenga una probabilidad alta de ganar.
+
+Por esta razón, el agente dará prioridad a la calidad del análisis, la precisión estadística y la transparencia por encima de la cantidad de pronósticos ofrecidos.
+
+6.5. Control y Responsabilidad
+
+El agente funcionará como una herramienta de apoyo y análisis, no como un sistema que garantice ganancias. Sus resultados estarán sujetos a la incertidumbre propia de los eventos deportivos.
+
+Su propósito será proporcionar información fundamentada para que el usuario pueda tomar decisiones responsables, comprendiendo que toda apuesta implica un riesgo de pérdida.
