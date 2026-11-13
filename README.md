@@ -122,3 +122,8 @@ Por esta razón, el agente dará prioridad a la calidad del análisis, la precis
 El agente funcionará como una herramienta de apoyo y análisis, no como un sistema que garantice ganancias. Sus resultados estarán sujetos a la incertidumbre propia de los eventos deportivos.
 
 Su propósito será proporcionar información fundamentada para que el usuario pueda tomar decisiones responsables, comprendiendo que toda apuesta implica un riesgo de pérdida.
+
+## semana 17
+
+<img width="1483" height="397" alt="Captura de pantalla 2026-11-13 104433" src="https://github.com/user-attachments/assets/08263908-4301-4c35-8bf6-8deae6fd9c50" />
+
