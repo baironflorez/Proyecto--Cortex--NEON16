@@ -6,6 +6,10 @@
 <img width="1536" height="773" alt="Popits" src="https://github.com/user-attachments/assets/e920c684-6fc8-484e-ae43-a2fd297e4f94" />
 ## Semana 3
 <img width="1056" height="1008" alt="Radar-Farmacia-NEON16" src="https://github.com/user-attachments/assets/514404ce-9146-42ae-9be6-afdd32741082" />
+
+## semana 4 y 5
+[github 4.pdf](https://github.com/user-attachments/files/34812194/github.4.pdf)
+
 Aprendizaje y Memoria (10/10): Acceso instantáneo e infalible a bases de datos masivas de medicamentos.
 
 Procesamiento Lingüístico (9/10): Gran dominio del lenguaje técnico y capacidad para simplificarlo.
