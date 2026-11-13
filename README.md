@@ -82,7 +82,7 @@ Principio fundamental: El agente no debe buscar estadísticas para demostrar que
 
 ## semana 15<img width="1710" height="259" alt="Captura de pantalla 2026-11-06 113700" src="https://github.com/user-attachments/assets/4f683f42-2284-4717-9fbb-f3015b71b2d5" />
 
-## semana 26
+## semana 16
 6. Motivación y Control
 6.1. Función Objetivo (Motivación del Agente)
 
