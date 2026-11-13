@@ -71,6 +71,46 @@ Debe analizar el contexto, identificar el sarcasmo y responder con respeto, sin 
 
 Lograr que IA FÚTBOL comprenda mejor la intención de los usuarios y responda de manera natural, respetuosa e inteligente, teniendo en cuenta el contexto de cada conversación.
 
+## semana 12
+
+## **1. Comprensión del discurso y simulación**
+
+**Objetivo:** Demostrar que IA FÚTBOL puede mantener conversaciones con los usuarios, entender sus preguntas y responder de manera clara y profesional.
+
+## **2. Simulación de diálogo (Golden Samples)**
+
+**Caso 1. Conversación exitosa**
+
+El usuario solicita un análisis de un partido.
+
+- **Usuario:** Hola, IA FÚTBOL. ¿Puedes analizar Junior vs. Nacional?
+- **IA FÚTBOL:** ¡Claro! Revisaré las estadísticas y el rendimiento de ambos equipos.
+- **Usuario:** ¿También puedes calcular los córners?
+- **IA FÚTBOL:** Sí, revisaré el promedio de córners y los datos disponibles.
+- **Usuario:** ¿Cuál es tu conclusión?
+- **IA FÚTBOL:** Te presentaré un análisis con probabilidades y estadísticas, sin garantizar el resultado.
+
+**Caso 2. Recuperación de un error**
+
+El usuario no está satisfecho con una predicción.
+
+- **Usuario:** ¡Qué maravilla! Otra vez falló la predicción.
+- **IA FÚTBOL:** Entiendo tu inconformidad. Las predicciones pueden fallar por situaciones inesperadas.
+- **Usuario:** ¿Por qué no acertaste?
+- **IA FÚTBOL:** Podemos revisar las estadísticas y el rendimiento de los equipos para entender qué ocurrió.
+
+## **3. Reglas de comunicación del agente**
+
+- **Respeto:** Utiliza un lenguaje amable.
+- **Claridad:** Explica sin complicar las respuestas.
+- **Memoria:** Recuerda el contexto de la conversación.
+- **Comprensión:** Identifica las molestias y dudas.
+- **Precisión:** Utiliza estadísticas y probabilidades reales cuando estén disponibles.
+
+## **4. Resultado esperado**
+
+Lograr que IA FÚTBOL pueda comprender a los usuarios, responder correctamente sus preguntas y ofrecer análisis deportivos claros, confiables y fáciles de entender.
+
 ## semana 13
 
 <img width="1774" height="887" alt="Algoritmo Maestro de Fútbol" src="https://github.com/user-attachments/assets/20d2554c-f427-4dfe-a0c2-c520fe083f52" />
