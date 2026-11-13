@@ -27,6 +27,13 @@ Motivación, Cognición y Emoción (2/10): Una simulación de empatía útil par
 
 <img width="1415" height="211" alt="Captura de pantalla 2026-11-13 105933" src="https://github.com/user-attachments/assets/5772791a-658d-487d-8aef-39a52cc2c52a" />
 
+## semana 9
+
+<img width="1038" height="253" alt="Captura de pantalla 2026-11-13 110158" src="https://github.com/user-attachments/assets/41488718-08c6-45ce-a323-e8111f5207f0" />
+<img width="1937" height="812" alt="Diagrama horizontal del análisis deportivo" src="https://github.com/user-attachments/assets/2548224a-0664-443c-9bbc-ad5dc69e8c2c" />
+
+
+
 ## semana 13
 
 <img width="1774" height="887" alt="Algoritmo Maestro de Fútbol" src="https://github.com/user-attachments/assets/20d2554c-f427-4dfe-a0c2-c520fe083f52" />
