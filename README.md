@@ -7,9 +7,6 @@
 ## Semana 3
 <img width="1056" height="1008" alt="Radar-Farmacia-NEON16" src="https://github.com/user-attachments/assets/514404ce-9146-42ae-9be6-afdd32741082" />
 
-## semana 4 y 5
-[github 4.pdf](https://github.com/user-attachments/files/34812194/github.4.pdf)
-
 Aprendizaje y Memoria (10/10): Acceso instantáneo e infalible a bases de datos masivas de medicamentos.
 
 Procesamiento Lingüístico (9/10): Gran dominio del lenguaje técnico y capacidad para simplificarlo.
@@ -17,6 +14,10 @@ Procesamiento Lingüístico (9/10): Gran dominio del lenguaje técnico y capacid
 Pensamiento y Razonamiento (8/10): Resolución eficaz de interacciones y dosificaciones basadas en lógica.
 
 Percepción y Atención (8/10): Alta precisión en el seguimiento de datos de recetas, pero sin captar el entorno físico.
+
+## semana 4 y 5 
+
+<img width="661" height="792" alt="Captura de pantalla 2026-11-13 105133" src="https://github.com/user-attachments/assets/c80a6ec1-a7bd-4cee-9516-2091d7ec817d" />
 
 Motivación, Cognición y Emoción (2/10): Una simulación de empatía útil para el trato, pero sin conciencia real.
 ## Semana 7
