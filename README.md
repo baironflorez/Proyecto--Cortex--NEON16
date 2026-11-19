@@ -56,7 +56,7 @@ Fuentes	Origen de los datos.
 
 <img width="1672" height="941" alt="Flujo de memoria conversacional en Goalytics" src="https://github.com/user-attachments/assets/3d97125d-1999-4cd2-b3eb-b31e2d4eb5d4" />
 
-<img width="1937" height="812" alt="Diagrama horizontal del análisis deportivo" src="https://github.com/user-attachments/assets/2548224a-0664-443c-9bbc-ad5dc69e8c2c" />
+<img width="1672" height="941" alt="Flujo de análisis futbolístico con IA" src="https://github.com/user-attachments/assets/8e7ec502-1a83-43ba-8e91-bfc144eba0a4" />
 
 ## semana 10 
 
