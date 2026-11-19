@@ -1,4 +1,7 @@
 # GOALYTICS-ANALISIS DE FUTBOL CON IA
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-19 at 12 18 06 AM" src="https://github.com/user-attachments/assets/c50910dc-20d0-418e-816f-fb32c5ad2b25" />
+
 ## Integrantes
 ### BAIRON FLOREZ , SEBASTIAN
 
