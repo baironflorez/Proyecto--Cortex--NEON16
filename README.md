@@ -22,8 +22,8 @@ Percepción y Atención (9/10): Identifica cambios durante los partidos, reconoc
 
 Motivación, Cognición y Emoción (8/10): Una simulación de empatía útil para el trato, pero sin conciencia real.
 ## Semana 7
+<img width="1448" height="1086" alt="Infografía Futbolística Goalytics Futurista" src="https://github.com/user-attachments/assets/d90bb56e-c9e7-405a-8b17-7fa504f4b640" />
 
-<img width="1448" height="1086" alt="Arquitectura de atención futbolística con IA" src="https://github.com/user-attachments/assets/b0ccf808-d6c7-42bc-9c3e-b4d369238b54" />
 1. Identificación de la intención: Reconoce qué partido o información busca el usuario.
 
 2. Filtrado del ruido: Selecciona los datos importantes y descarta los innecesarios.
