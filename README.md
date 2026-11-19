@@ -249,5 +249,6 @@ Su propósito será proporcionar información fundamentada para que el usuario p
 
 ## semana 17
 
-<img width="1483" height="397" alt="Captura de pantalla 2026-11-13 104433" src="https://github.com/user-attachments/assets/08263908-4301-4c35-8bf6-8deae6fd9c50" />
+<img width="1536" height="1024" alt="WhatsApp Image 2026-11-19 at 12 11 40 AM" src="https://github.com/user-attachments/assets/c64a1cc9-f3dd-42b9-9db6-b05e6a5b9ee0" />
+
 
