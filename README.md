@@ -50,7 +50,7 @@ Interacciones	Consultas de los usuarios.
 Fuentes	Origen de los datos.
 ## semana 8
 
-<img width="1415" height="211" alt="Captura de pantalla 2026-11-13 105933" src="https://github.com/user-attachments/assets/5772791a-658d-487d-8aef-39a52cc2c52a" />
+<img width="1774" height="887" alt="Flujo de Trabajo Goalytics" src="https://github.com/user-attachments/assets/b8a84bb8-7b58-4f33-beaa-890a74764d1e" />
 
 ## semana 9
 
