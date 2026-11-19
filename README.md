@@ -17,7 +17,7 @@ Percepción y Atención (9/10): Identifica cambios durante los partidos, reconoc
 
 ## semana 4 y 5 
 
-<img width="1312" height="1199" alt="Infografía de IA para análisis futbolístico" src="https://github.com/user-attachments/assets/eebd882e-682b-430b-856a-b33a23279a30" />
+<img width="1312" height="1199" alt="Infografía Futbolística Futurista GOALYTICS" src="https://github.com/user-attachments/assets/d4e8406a-7fb7-42d9-9f2c-e0f7bceb0a47" />
 
 
 Motivación, Cognición y Emoción (8/10): Una simulación de empatía útil para el trato, pero sin conciencia real.
