@@ -139,7 +139,8 @@ Lograr que IA FÚTBOL pueda comprender a los usuarios, responder correctamente s
 
 ## semana 13
 
-<img width="1774" height="887" alt="Algoritmo Maestro de Fútbol" src="https://github.com/user-attachments/assets/20d2554c-f427-4dfe-a0c2-c520fe083f52" />
+<img width="1672" height="941" alt="Algoritmo maestro de análisis futbolístico" src="https://github.com/user-attachments/assets/784aeed9-81bb-4938-81ee-e4bd15632cd8" />
+
 
 ## semana 14
 5. Lógica y Ética
