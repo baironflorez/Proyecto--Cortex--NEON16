@@ -5,15 +5,15 @@
 ## Semana 1 y 2
 <img width="1536" height="773" alt="Popits" src="https://github.com/user-attachments/assets/e920c684-6fc8-484e-ae43-a2fd297e4f94" />
 ## Semana 3
-<img width="1056" height="1008" alt="Radar-Farmacia-NEON16" src="https://github.com/user-attachments/assets/514404ce-9146-42ae-9be6-afdd32741082" />
+<img width="1312" height="1199" alt="Radar de Rendimiento Futbolístico IA" src="https://github.com/user-attachments/assets/c7d9f06b-7e9e-4f2d-8b91-c6e1c794dc4c" />
 
-Aprendizaje y Memoria (10/10): Acceso instantáneo e infalible a bases de datos masivas de medicamentos.
+Aprendizaje y Memoria (10/10): Utiliza datos históricos y resultados anteriores para reconocer patrones y mejorar los análisis futbolísticos.
 
-Procesamiento Lingüístico (9/10): Gran dominio del lenguaje técnico y capacidad para simplificarlo.
+Procesamiento Lingüístico (9/10): Interpreta estadísticas, información de partidos y lenguaje futbolístico para generar explicaciones claras mediante IA.
 
-Pensamiento y Razonamiento (8/10): Resolución eficaz de interacciones y dosificaciones basadas en lógica.
+Pensamiento y Razonamiento (10/10): Compara equipos, analiza su rendimiento y evalúa diferentes escenarios para generar pronósticos deportivos.
 
-Percepción y Atención (8/10): Alta precisión en el seguimiento de datos de recetas, pero sin captar el entorno físico.
+Percepción y Atención (9/10): Identifica cambios durante los partidos, reconoce estadísticas importantes y detecta situaciones que pueden influir en el juego.
 
 ## semana 4 y 5 
 
