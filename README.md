@@ -20,9 +20,10 @@ Percepción y Atención (9/10): Identifica cambios durante los partidos, reconoc
 <img width="1312" height="1199" alt="Infografía de IA para análisis futbolístico" src="https://github.com/user-attachments/assets/eebd882e-682b-430b-856a-b33a23279a30" />
 
 
-Motivación, Cognición y Emoción (2/10): Una simulación de empatía útil para el trato, pero sin conciencia real.
+Motivación, Cognición y Emoción (8/10): Una simulación de empatía útil para el trato, pero sin conciencia real.
 ## Semana 7
-<img width="1542" height="803" alt="Captura de pantalla 2026-10-02 112029" src="https://github.com/user-attachments/assets/fc00277a-ec6f-4315-a3cd-8d8cd99d9612" />
+
+<img width="1448" height="1086" alt="Arquitectura de atención futbolística con IA" src="https://github.com/user-attachments/assets/b0ccf808-d6c7-42bc-9c3e-b4d369238b54" />
 
 ## semana 8
 
