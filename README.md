@@ -5,7 +5,7 @@
 ## Semana 1 y 2
 <img width="1536" height="773" alt="Popits" src="https://github.com/user-attachments/assets/e920c684-6fc8-484e-ae43-a2fd297e4f94" />
 ## Semana 3
-<img width="1312" height="1199" alt="Radar de Rendimiento Futbolístico IA" src="https://github.com/user-attachments/assets/c7d9f06b-7e9e-4f2d-8b91-c6e1c794dc4c" />
+<img width="1312" height="1199" alt="Panel Futurista de Análisis Futbolístico" src="https://github.com/user-attachments/assets/3786127d-9d11-4f5a-b913-b1a4628b28de" />
 
 Aprendizaje y Memoria (10/10): Utiliza datos históricos y resultados anteriores para reconocer patrones y mejorar los análisis futbolísticos.
 
@@ -24,7 +24,27 @@ Motivación, Cognición y Emoción (8/10): Una simulación de empatía útil par
 ## Semana 7
 
 <img width="1448" height="1086" alt="Arquitectura de atención futbolística con IA" src="https://github.com/user-attachments/assets/b0ccf808-d6c7-42bc-9c3e-b4d369238b54" />
+1. Identificación de la intención: Reconoce qué partido o información busca el usuario.
 
+2. Filtrado del ruido: Selecciona los datos importantes y descarta los innecesarios.
+
+3. Información contradictoria: Detecta datos diferentes o incorrectos para revisarlos.
+
+4. Prioridad al objetivo: Da importancia a la información del partido que se está analizando.
+
+5. Conservación de información: Guarda los datos importantes para continuar el análisis.
+Base de conocimiento
+Categoría	Información que almacena
+Deportes y equipos	Equipos y competiciones.
+Jugadores	Nombres y estadísticas.
+Estadísticas	Goles, tiros y posesión.
+Ligas	Tablas y posiciones.
+Mercados	Cuotas y tipos de apuestas.
+Análisis	Rendimiento y tácticas.
+Eventos	Fechas y resultados.
+Enfrentamientos	Historial entre equipos.
+Interacciones	Consultas de los usuarios.
+Fuentes	Origen de los datos.
 ## semana 8
 
 <img width="1415" height="211" alt="Captura de pantalla 2026-11-13 105933" src="https://github.com/user-attachments/assets/5772791a-658d-487d-8aef-39a52cc2c52a" />
