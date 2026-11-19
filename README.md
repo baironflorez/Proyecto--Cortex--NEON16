@@ -60,7 +60,7 @@ Fuentes	Origen de los datos.
 
 ## semana 10 
 
-<img width="1672" height="941" alt="Flujo del Protocolo de IA Fútbol" src="https://github.com/user-attachments/assets/67cebeb9-ac05-44b3-9704-227a3515d695" />
+<img width="1672" height="941" alt="Flujo IA del Analista de Fútbol" src="https://github.com/user-attachments/assets/f03d9e10-4b41-49d9-8383-3d7e88e4df80" />
 
 ## semana 11
 
