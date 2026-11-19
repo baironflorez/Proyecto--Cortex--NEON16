@@ -3,8 +3,11 @@
 ### BAIRON FLOREZ , SEBASTIAN
 
 ## Semana 1 y 2
-<img width="1536" height="773" alt="Popits" src="https://github.com/user-attachments/assets/e920c684-6fc8-484e-ae43-a2fd297e4f94" />
+
+<img width="1536" height="1024" alt="Arquitectura de análisis futbolístico con IA" src="https://github.com/user-attachments/assets/72b70419-5aa9-46e4-a9e3-3b4b615eb125" />
+
 ## Semana 3
+
 <img width="1312" height="1199" alt="Panel Futurista de Análisis Futbolístico" src="https://github.com/user-attachments/assets/3786127d-9d11-4f5a-b913-b1a4628b28de" />
 
 Aprendizaje y Memoria (10/10): Utiliza datos históricos y resultados anteriores para reconocer patrones y mejorar los análisis futbolísticos.
