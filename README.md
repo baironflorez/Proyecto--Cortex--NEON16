@@ -202,7 +202,9 @@ El objetivo no es predecir resultados con certeza, sino reducir errores de juici
 
 Principio fundamental: El agente no debe buscar estadísticas para demostrar que un equipo ganará; debe analizar las estadísticas para descubrir qué resultado está mejor respaldado por la evidencia.
 
-## semana 15<img width="1710" height="259" alt="Captura de pantalla 2026-11-06 113700" src="https://github.com/user-attachments/assets/4f683f42-2284-4717-9fbb-f3015b71b2d5" />
+## semana 15
+
+<img width="1774" height="887" alt="Flujo de análisis futbolístico con IA (1)" src="https://github.com/user-attachments/assets/b8a057ad-0189-4b15-951c-f7e3514cb8d6" />
 
 ## semana 16
 6. Motivación y Control
